@@ -7,5 +7,10 @@ public class Main {
         // write your code here2
         System.out.println("x");
         System.out.println("x");
+        System.out.println("x");
+        System.out.println("x");
+        System.out.println("x");
+        System.out.println("x");
+        System.out.println("dev");
     }
 }
